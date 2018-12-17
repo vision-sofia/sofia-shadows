@@ -1,0 +1,15 @@
+{
+  "name": "cesium_map",
+  "version": "0.1.0",
+  "description": "Sofia shadow visualization based on Cesium.js",
+  "main": "index.js",
+  "dependencies": {
+    "cesium": "^1.51.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zahary Karadjov",
+  "license": "MIT"
+}
